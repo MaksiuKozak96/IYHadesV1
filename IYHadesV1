@@ -245,7 +245,7 @@ table.insert(text1,Title)
 Dark.Name = "Dark"
 Dark.Parent = Holder
 Dark.Active = true
-Dark.BackgroundColor3 = Color3.fromRGB(36, 36, 37)
+Dark.BackgroundColor3 = Color3.fromRGB(137, 35, 39)
 Dark.BorderSizePixel = 0
 Dark.Position = UDim2.new(0, 0, 0, 45)
 Dark.Size = UDim2.new(0, 250, 0, 175)
@@ -304,7 +304,7 @@ ReferenceButton.ZIndex = 10
 Settings.Name = "Settings"
 Settings.Parent = Holder
 Settings.Active = true
-Settings.BackgroundColor3 = Color3.fromRGB(36, 36, 37)
+Settings.BackgroundColor3 = Color3.fromRGB(137, 35, 39)
 Settings.BorderSizePixel = 0
 Settings.Position = UDim2.new(0, 0, 0, 220)
 Settings.Size = UDim2.new(0, 250, 0, 175)
